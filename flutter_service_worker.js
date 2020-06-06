@@ -12,7 +12,7 @@ const RESOURCES = {
 "assets/LICENSE": "4f38146a9f2d4249842060333ccfdca7",
 "index.html": "3342afbb2a7d743825277ed6fcbdf394",
 "/": "3342afbb2a7d743825277ed6fcbdf394",
-"main.dart.js": "6d671d1098dbb68713d3538da534b94e"
+"main.dart.js": "26608d9e73056fd5016d5b5508517232"
 };
 
 self.addEventListener('activate', function (event) {
